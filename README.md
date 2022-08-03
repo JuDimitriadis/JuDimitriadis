@@ -2,7 +2,7 @@
 
 
 
-# Juliana Dimitriadis
+# Juliana Pazin Dimitriadis / JuDimitriadis
 
 <img src='https://cdn-icons.flaticon.com/png/128/2098/premium/2098255.png?token=exp=1659527627~hmac=b58f152f3302ac4eed81a9c515081469' height=60 width=60/> &nbsp; I’m currently working on my portifolio page
 

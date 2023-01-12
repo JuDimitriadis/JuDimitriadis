@@ -4,9 +4,9 @@
 
 # Juliana Pazin Dimitriadis
 
-<img src='https://cdn-icons.flaticon.com/png/128/2098/premium/2098255.png?token=exp=1659527627~hmac=b58f152f3302ac4eed81a9c515081469' height=60 width=60/> &nbsp; I’m currently working on my portifolio page
+<img src='https://cdn-icons-png.flaticon.com/512/2098/2098255.png' height=60 width=60/> &nbsp; I’m currently working on my Type-store project and attending an online QA Bootcamp.
 
-<img src='https://cdn-icons-png.flaticon.com/128/2490/2490396.png' height=60 width=60/> &nbsp; I’m currently learning more about React-Spring and Material UI
+<img src='https://cdn-icons-png.flaticon.com/128/2490/2490396.png' height=60 width=60/> &nbsp; I’m currently learning more about Typescript and Agile testing approach.
 
 <img src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" height=60 width=60/> &nbsp; I’m looking to collaborate on any React or Vue Project
 
@@ -41,7 +41,7 @@
 ## Feel free to reach me out
 
 
-[<img src="https://cdn-icons.flaticon.com/png/128/3296/premium/3296464.png?token=exp=1659526942~hmac=bf0d0291b6f9937e8d411cc84da9d4f0" height=70/>](mailto:julianaspdimitriadis@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" height=70/>](mailto:julianaspdimitriadis@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" height=58/>](https://www.linkedin.com/in/julianaspdimitriadis/)
 
 
